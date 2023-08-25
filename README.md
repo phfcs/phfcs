@@ -9,7 +9,7 @@
 >I am a computer science student who likes to learn and study new technologies.
 
 
-* :computer: I really enjoy programming.
+* :computer: Programming is my reality.
 
 ## Technologies
 <div align="center"> 
